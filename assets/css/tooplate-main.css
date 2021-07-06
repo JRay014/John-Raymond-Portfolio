@@ -300,7 +300,7 @@ nav a::before {
 
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/Homepage-Background.gif);
   background-position: fixed;
 }
 .slides .slide:nth-child(3) {
@@ -348,13 +348,13 @@ nav a::before {
   overflow: hidden;
 }
 #image-slider ul li:nth-child(1) {
-  background-image: url(../images/full-bg-01.jpg);
+  background-image: url(../images/The-Maze.png);
 }
 #image-slider ul li:nth-child(2) {
-  background-image: url(../images/full-bg-02.jpg);
+  background-image: url(../images/Not-Spotify-Homepage.png);
 }
 #image-slider ul li:nth-child(3) {
-  background-image: url(../images/full-bg-03.jpg);
+  background-image: url(../images/The-Cases-Diary-Dark.png);
 }
 #image-slider ul li.active-img{
   left: 0;
@@ -379,7 +379,7 @@ nav a::before {
   transition: all 0.5s;
 }
 #thumbnail ul li.active {
-  border: 5px solid #faf5b2;
+  border: 5px solid #474aec;
 }
 #thumbnail ul li img {
   max-width: 100%;
@@ -454,8 +454,8 @@ nav a::before {
   border-radius: 50%;
 }
 #tabs ul .ui-tabs-active span {
-  background: #faf5b2;
-  border: #faf5b2;
+  background: #474aec;
+  border: #474aec;
   line-height: 90px;
   border-bottom: none;
 }
@@ -512,7 +512,7 @@ nav a::before {
 }
 .featured-item .down-content {
   background-color: #fff;
-  border: 5px solid #faf5b2;
+  border: 5px solid #474aec;
   padding: 15px;
 }
 .featured-item h4 {
@@ -538,7 +538,7 @@ nav a::before {
   display: inline-block;
 }
 .owl-dots .active span {
-  background-color: #faf5b2!important;
+  background-color: #474aec!important;
 }
 .owl-dots .owl-dot span {
   background-color: #fff;
@@ -613,8 +613,8 @@ nav a::before {
   outline: none;
 }
 #contact button:hover {
-  background-color: #faf5b2;
-  border-color: #faf5b2;
+  background-color: #474aec;
+  border-color: #474aec;
   color: #1e1e1e;
 }
 
@@ -659,7 +659,7 @@ nav a::before {
     color: #111;
     display: inline-block;
     text-align: center;
-    background-color: #faf5b2;
+    background-color: #474aec;
   }
   nav {
     top: 0vh;
