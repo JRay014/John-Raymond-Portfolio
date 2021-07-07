@@ -509,6 +509,7 @@ nav a::before {
 .featured-item {
   transition: all 0.5s;
   text-align: center;
+  border: 5px solid #474aec;
 }
 .featured-item .ep {
   width: 100%;
@@ -518,6 +519,12 @@ nav a::before {
   background-position: center center;
   background-size: cover;
   overflow: hidden;
+}
+.ep-item {
+  margin: auto;
+  padding: 30px;
+  color: #fff;
+  font-weight: 500;
 }
 .featured-item img {
   width: 100%;
